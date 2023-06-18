@@ -1,4 +1,4 @@
-## Background Remover AI
+## Restore Old Image AI
 
 ![App screenshot](public/app-screenshot.png)
 
