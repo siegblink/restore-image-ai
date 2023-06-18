@@ -92,7 +92,7 @@ export default function Home() {
       {/* Header section */}
       <section className='text-center mb-10'>
         <h1 className='font-semibold text-transparent text-5xl bg-gradient-to-r from-blue-600 via-green-500 to-indigo-400 inline-block bg-clip-text'>
-          Remove background
+          Restore Old Image
         </h1>
       </section>
 
@@ -134,7 +134,7 @@ export default function Home() {
                 loading && 'cursor-progress'
               }`}
             >
-              Remove background
+              Restore Now
             </button>
           </div>
         )}
